@@ -1,0 +1,327 @@
+[
+    {
+        "salon_id": "salon_id_1",
+        "Alldata": [
+            {
+                "type": "Basic",
+                "data": {
+                    "salonname": "Nice salon",
+                    "salonimage": "assets/image/Belle_Curls.png",
+                    "is_salonOpen": true,
+                    "saloncontact": 8050060845,
+                    "salonrating": 2.5,
+                    "salonreviews": 1.5
+                }
+            },
+            {
+                "type": "Abouts",
+                "Abouts": "Lorem ipsum dolor sit amet consectetur. Nam ipsum nibh vitae turpis. Mi enim amet porttitor. Lectus sed eget."
+            },
+            {
+                "type": "Gallary",
+                "Gallary": {
+                    "image": [
+                        "ihdiuhdius"
+                    ],
+                    "video": [
+                        "ioehfioehio"
+                    ]
+                }
+            },
+            {
+                "type": "Address",
+                "Address": "0993 Novick Parkway"
+            },
+            {
+                "type": "WorkingHours",
+                "WorkingHours": {
+                    "Monday_Friday": "08:00 AM - 5:00 PM",
+                    "Saturday_Sunday": "08:00 AM - 2:00 PM"
+                }
+            },
+            {
+                "type": "Services",
+                "Services": {
+                    "Hair_cut": [
+                        "Bazz cut",
+                        "Katora cut",
+                        "Gandhi cut"
+                    ],
+                    "Hair_Coloring": [
+                        "Red Color",
+                        "Blue Color",
+                        "Yellow Color"
+                    ],
+                    "Hair_Wash": [
+                        "Cold Wash",
+                        "Hot Wash",
+                        "Cold Wash"
+                    ],
+                    "Shaving": [
+                        "French cut",
+                        "Normal cut"
+                    ],
+                    "Skin_Care": [
+                        "Face Wash",
+                        "Face Seurb",
+                        "Ditten"
+                    ],
+                    "Make_up": [
+                        "Wax",
+                        "Facil",
+                        "Wax"
+                    ],
+                    "Manicure": [
+                        "Hand Manicure",
+                        "Legs Manicure"                     
+                    ],
+                    "Massage": [
+                       "Head Massage" ,
+                        "Body Massage"                    
+                    ]
+                }
+            },
+            {
+                "type": "Specialist",
+                "Specialistdata": [
+                    {
+                        "Specialistname": "Belle Curls",
+                        "Specialistimage": "assets/image/Belle_Curls.png",
+                        "Specialistwork": "Barber"
+                    },
+                    {
+                        "Specialistname": "Belle Curls",
+                        "Specialistimage": "assets/image/serenity_3.png",
+                        "Specialistwork": "Hair dreser"
+                    },
+                    {
+                        "Specialistname": "Belle Curls",
+                        "Specialistimage": "assets/image/serenity_salon.png",
+                        "Specialistwork": "Massage"
+                    },
+                    {
+                        "Specialistname": "Belle Curls",
+                        "Specialistimage": "assets/image/woman_hair_stright.png",
+                        "Specialistwork": "Manicure"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "salon_id": "salon_id_2",
+        "Alldata": [
+            {
+                "type": "Basic",
+                "data": {
+                    "salonname": "Bhuriya Wala salon",
+                    "salonimage": "assets/image/Belle_Curls.png",
+                    "is_salonOpen": true,
+                    "saloncontact": 9034259677,
+                    "salonrating": 3.520,
+                    "salonreviews": 3.502
+                }
+            },
+            {
+                "type": "Abouts",
+                "Abouts": "Lorem ipsum dolor sit amet consectetur. Nam ipsum nibh vitae turpis. Mi enim amet porttitor. Lectus sed eget."
+            },
+            {
+                "type": "Gallary",
+                "Gallary": {
+                    "image": [
+                        "ejfcioehj"
+                    ],
+                    "video": [
+                        ";lejfipoehfio"
+                    ]
+                }
+            },
+            {
+                "type": "Address",
+                "Address": "0993 Novick Parkway"
+            },
+            {
+                "type": "WorkingHours",
+                "WorkingHours": {
+                    "Monday_Friday": "08:00 AM - 5:00 PM",
+                    "Saturday_Sunday": "08:00 AM - 2:00 PM"
+                }
+            },
+            {
+                "type": "Services",
+                "Services": {
+                    "Hair_cut": [
+                        "Bazz cut",
+                        "Katora cut",
+                        "Gandhi cut"
+                    ],
+                    "Hair_Coloring": [
+                        "Red Color",
+                        "Blue Color",
+                        "Yellow Color"
+                    ],
+                    "Hair_Wash": [
+                        "Cold Wash",
+                        "Hot Wash",
+                        "Cold Wash"
+                    ],
+                    "Shaving": [
+                        "French cut",
+                        "Normal cut"
+                    ],
+                    "Skin_Care": [
+                        "Face Wash",
+                        "Face Seurb",
+                        "Ditten"
+                    ],
+                    "Make_up": [
+                        "Wax",
+                        "Facil"
+                    ],
+                    "Manicure": [
+                        "Hand Manicure",
+                        "Legs Manicure"                     
+                    ],
+                    "Massage": [
+                       "Head Massage" ,
+                        "Body Massage"                    
+                    ]
+                }
+            },
+            {
+                "type": "Specialist",
+                "Specialistdata": [
+                    {
+                        "Specialistname": "Belle Curls",
+                        "Specialistimage": "assets/image/Belle_Curls.png",
+                        "Specialistwork": "Barber"
+                    },
+                    {
+                        "Specialistname": "Belle Curls",
+                        "Specialistimage": "assets/image/serenity_3.png",
+                        "Specialistwork": "Hair dreser"
+                    },
+                    {
+                        "Specialistname": "Belle Curls",
+                        "Specialistimage": "assets/image/serenity_salon.png",
+                        "Specialistwork": "Massage"
+                    },
+                    {
+                        "Specialistname": "Belle Curls",
+                        "Specialistimage": "assets/image/woman_hair_stright.png",
+                        "Specialistwork": "Manicure"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "salon_id": "salon_id_3",
+        "Alldata": [
+            {
+                "type": "Basic",
+                "data": {
+                    "salonname": "Perfect cut",
+                    "salonimage": "assets/image/Belle_Curls.png",
+                    "is_salonOpen": true,
+                    "saloncontact": 9034259677,
+                    "salonrating": 3.520,
+                    "salonreviews": 3.502
+                }
+            },
+            {
+                "type": "Abouts",
+                "Abouts": "Lorem ipsum dolor sit amet consectetur. Nam ipsum nibh vitae turpis. Mi enim amet porttitor. Lectus sed eget."
+            },
+            {
+                "type": "Gallary",
+                "Gallary": {
+                    "image": [
+                        "ejfcioehj"
+                    ],
+                    "video": [
+                        ";lejfipoehfio"
+                    ]
+                }
+            },
+            {
+                "type": "Address",
+                "Address": "0993 Novick Parkway"
+            },
+            {
+                "type": "WorkingHours",
+                "WorkingHours": {
+                    "Monday_Friday": "08:00 AM - 5:00 PM",
+                    "Saturday_Sunday": "08:00 AM - 2:00 PM"
+                }
+            },
+            {
+                "type": "Services",
+                "Services": {
+                    "Hair_cut": [
+                        "Bazz cut",
+                        "Katora cut",
+                        "Gandhi cut"
+                    ],
+                    "Hair_Coloring": [
+                        "Red Color",
+                        "Blue Color",
+                        "Yellow Color"
+                    ],
+                    "Hair_Wash": [
+                        "Cold Wash",
+                        "Hot Wash",
+                        "Cold Wash"
+                    ],
+                    "Shaving": [
+                        "French cut",
+                        "Normal cut"
+                    ],
+                    "Skin_Care": [
+                        "Face Wash",
+                        "Face Seurb",
+                        "Ditten"
+                    ],
+                    "Make_up": [
+                        "Wax",
+                        "Facil"
+                    ],
+                    "Manicure": [
+                        "Hand Manicure",
+                        "Legs Manicure"                     
+                    ],
+                    "Massage": [
+                       "Head Massage" ,
+                        "Body Massage"                    
+                    ]
+                }
+            },
+            {
+                "type": "Specialist",
+                "Specialistdata": [
+                    {
+                        "Specialistname": "Belle Curls",
+                        "Specialistimage": "assets/image/Belle_Curls.png",
+                        "Specialistwork": "Barber"
+                    },
+                    {
+                        "Specialistname": "Belle Curls",
+                        "Specialistimage": "assets/image/serenity_3.png",
+                        "Specialistwork": "Hair dreser"
+                    },
+                    {
+                        "Specialistname": "Belle Curls",
+                        "Specialistimage": "assets/image/serenity_salon.png",
+                        "Specialistwork": "Massage"
+                    },
+                    {
+                        "Specialistname": "Belle Curls",
+                        "Specialistimage": "assets/image/woman_hair_stright.png",
+                        "Specialistwork": "Manicure"
+                    }
+                ]
+            }
+        ]
+    }
+]

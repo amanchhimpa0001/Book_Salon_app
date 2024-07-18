@@ -1,0 +1,33 @@
+[
+    {
+        "Username": "aman",
+        "password": "password",
+        "SurName": "singh",
+        "gander": "Male",
+        "Dateofbirth": "23-3-2006",
+        "email": "aman@gmail.com",
+        "profileimg": "assets/profileimg.png",
+        "id": "1"
+    },
+    {
+        "Username": "raman",
+        "password": "password",
+        "SurName": "singh",
+        "gander": "female",
+        "Dateofbirth": "23-3-2006",
+        "email": "raman@gmail.com",
+        "profileimg": "assets/profileimg.png",
+        "id": "2"
+    },
+    {
+        "Username": "Rohit",
+        "password": "password",
+        "SurName": "singh",
+        "gander": "Male",
+        "profile": "",
+        "Dateofbirth": "23-3-2006",
+        "email": "Rohit@gmail.com",
+        "profileimg": "assets/profileimg.png",
+        "id": "3"
+    }
+]
