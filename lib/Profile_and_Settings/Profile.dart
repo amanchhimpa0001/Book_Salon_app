@@ -109,7 +109,7 @@ class profile_screen extends StatelessWidget {
               txt: "Invite Friends",
               icon: Icons.person_add,
               onPressed: () {
-                Appservices.pushto(context, invite_friend());
+                // Appservices.pushto(context, invite_friend());
               },
             ),
             Listtile_(

@@ -29,9 +29,9 @@ class _slider_screenState extends State<slider_screen> {
         salonimage: Getimage.sliderimg3,
         description: "Come be handsome\nand beautiful with us\nright now"),
   ];
-  int index = 0;  
+  int index = 0;
 
-  CarouselController _carouselController = CarouselController();
+  CarouselSliderController _carouselController = CarouselSliderController();
   @override
   Widget build(BuildContext context) {
     return Scaffold(
